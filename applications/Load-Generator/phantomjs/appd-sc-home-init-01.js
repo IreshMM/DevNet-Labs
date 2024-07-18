@@ -21,7 +21,7 @@ steps = [
 	//Step 1 - Open home page
     function(){
         console.log('Step 1 - Open home page');
-        page.open("http://localhost:8080/Supercar-Trader/home.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/home.do", function(status){
 			
 		});
     },

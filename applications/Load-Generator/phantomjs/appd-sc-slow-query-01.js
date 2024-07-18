@@ -24,7 +24,7 @@ steps = [
     //Step 1 - Open Aston Martin V8 Vantage Enquiries page
     function(){
         console.log('Step 1 - Open Aston Martin V8 Vantage Enquiries page');
-        page.open("http://localhost:8080/Supercar-Trader/car.do?query=carEnquiries&cid=1", function(status){
+        page.open("http://app:8080/Supercar-Trader/car.do?query=carEnquiries&cid=1", function(status){
             
         });
     },

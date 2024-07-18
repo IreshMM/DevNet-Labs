@@ -22,7 +22,7 @@ steps = [
     //Step 1 - Open Insurance page stop memory leak
     function(){
         console.log('Step 1 - Open Insurance page stop memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=0", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=0", function(status){
             
         });
     },

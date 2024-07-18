@@ -21,7 +21,7 @@ steps = [
     //Step 1 - Open Insurance page start memory leak
     function(){
         console.log('Step 1 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -37,7 +37,7 @@ steps = [
     //Step 2 - Open Insurance page start memory leak
     function(){
         console.log('Step 2 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -53,7 +53,7 @@ steps = [
     //Step 3 - Open Insurance page start memory leak
     function(){
         console.log('Step 3 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -69,7 +69,7 @@ steps = [
     //Step 4 - Open Insurance page start memory leak
     function(){
         console.log('Step 4 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -85,7 +85,7 @@ steps = [
     //Step 5 - Open Insurance page start memory leak
     function(){
         console.log('Step 5 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -101,7 +101,7 @@ steps = [
     //Step 6 - Open Insurance page start memory leak
     function(){
         console.log('Step 6 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -117,7 +117,7 @@ steps = [
     //Step 7 - Open Insurance page start memory leak
     function(){
         console.log('Step 7 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -133,7 +133,7 @@ steps = [
     //Step 8 - Open Insurance page start memory leak
     function(){
         console.log('Step 8 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -149,7 +149,7 @@ steps = [
     //Step 9 - Open Insurance page start memory leak
     function(){
         console.log('Step 9 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -165,7 +165,7 @@ steps = [
     //Step 10 - Open Insurance page start memory leak
     function(){
         console.log('Step 10 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -181,7 +181,7 @@ steps = [
     //Step 11 - Open Insurance page start memory leak
     function(){
         console.log('Step 11 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=20000", function(status){
         });
     },    
     function(){
@@ -198,7 +198,7 @@ steps = [
     //Step 12 - Open Insurance page start memory leak
     function(){
         console.log('Step 12 - Open Insurance page with memory leak');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do?heapLeak=5000", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do?heapLeak=5000", function(status){
         });
     },    
     function(){

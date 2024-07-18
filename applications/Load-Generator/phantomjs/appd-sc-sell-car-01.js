@@ -22,7 +22,7 @@ steps = [
     //Step 01 - Open Sell page and POST new car to sell
     function(){
         console.log('Step 01 - Open Sell page');
-        page.open("http://localhost:8080/Supercar-Trader/sell.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/sell.do", function(status){
             
         });
     },
@@ -58,7 +58,7 @@ steps = [
     //Step 02 - Open Sell page and POST new car to sell
     function(){
         console.log('Step 02 - Open Sell page');
-        page.open("http://localhost:8080/Supercar-Trader/sell.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/sell.do", function(status){
             
         });
     },

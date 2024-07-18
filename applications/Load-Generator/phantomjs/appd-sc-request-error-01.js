@@ -22,7 +22,7 @@ steps = [
     //Step 1 - Open page that isn't there
     function(){
         console.log('Step 1 - Open deleteRecord page');
-        page.open("http://localhost:8080/Supercar-Trader/deleteRecord.jsp", function(status){
+        page.open("http://app:8080/Supercar-Trader/deleteRecord.jsp", function(status){
             
         });
     },
@@ -30,7 +30,7 @@ steps = [
     //Step 2 - Open page that isn't there
     function(){
         console.log('Step 2 - Open updateRecord page');
-        page.open("http://localhost:8080/Supercar-Trader/updateRecord.jsp", function(status){
+        page.open("http://app:8080/Supercar-Trader/updateRecord.jsp", function(status){
             
         });
     },

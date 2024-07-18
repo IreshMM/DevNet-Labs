@@ -22,7 +22,7 @@ steps = [
     //Step 25 - Open Insurance page
     function(){
         console.log('Step 25 - Open Insurance page');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do", function(status){
             
         });
     },
@@ -42,7 +42,7 @@ steps = [
      //Step 25 - Open Insurance page
     function(){
         console.log('Step 25 - Open Insurance page');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do", function(status){
             
         });
     },
@@ -62,7 +62,7 @@ steps = [
     //Step 25 - Open Insurance page
     function(){
         console.log('Step 25 - Open Insurance page');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do", function(status){
             
         });
     },
@@ -82,7 +82,7 @@ steps = [
     //Step 25 - Open Insurance page
     function(){
         console.log('Step 25 - Open Insurance page');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do", function(status){
             
         });
     },
@@ -102,7 +102,7 @@ steps = [
 	//Step 1 - Open home page
     function(){
         console.log('Step 1 - Open home page');
-        page.open("http://localhost:8080/Supercar-Trader/home.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/home.do", function(status){
 			
 		});
     },
@@ -121,7 +121,7 @@ steps = [
     //Step 4 - Open inventory page
     function(){
         console.log('Step 4 - Open inventory page');
-        page.open("http://localhost:8080/Supercar-Trader/supercars.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/supercars.do", function(status){
             
         });
     },
@@ -140,7 +140,7 @@ steps = [
     //Step 7 - Open Aston Martins page
     function(){
         console.log('Step 7 - Open Aston Martins page');
-        page.open("http://localhost:8080/Supercar-Trader/cars.do?query=manu&mid=3", function(status){
+        page.open("http://app:8080/Supercar-Trader/cars.do?query=manu&mid=3", function(status){
             
         });
     },
@@ -159,7 +159,7 @@ steps = [
     //Step 10 - Open BMWs page
     function(){
         console.log('Step 10 - Open BMWs page');
-        page.open("http://localhost:8080/Supercar-Trader/cars.do?query=manu&mid=4", function(status){
+        page.open("http://app:8080/Supercar-Trader/cars.do?query=manu&mid=4", function(status){
             
         });
     },
@@ -178,7 +178,7 @@ steps = [
     //Step 13 - Open Ferraris page
     function(){
         console.log('Step 13 - Open Ferraris page');
-        page.open("http://localhost:8080/Supercar-Trader/cars.do?query=manu&mid=2", function(status){
+        page.open("http://app:8080/Supercar-Trader/cars.do?query=manu&mid=2", function(status){
             
         });
     },
@@ -198,7 +198,7 @@ steps = [
     //Step 16 - Open Ferrari Pista page
     function(){
         console.log('Step 16 - Open Ferrari Pista page');
-        page.open("http://localhost:8080/Supercar-Trader/car.do?query=car&cid=4", function(status){
+        page.open("http://app:8080/Supercar-Trader/car.do?query=car&cid=4", function(status){
             
         });
     },
@@ -220,7 +220,7 @@ steps = [
     //Step 22 - Open Sell page
     function(){
         console.log('Step 22 - Open Sell page');
-        page.open("http://localhost:8080/Supercar-Trader/sell.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/sell.do", function(status){
             
         });
     },
@@ -240,7 +240,7 @@ steps = [
     //Step 25 - Open Insurance page
     function(){
         console.log('Step 25 - Open Insurance page');
-        page.open("http://localhost:8080/Supercar-Trader/insurance.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/insurance.do", function(status){
             
         });
     },
@@ -260,7 +260,7 @@ steps = [
     //Step 28 - Open Enquire page
     function(){
         console.log('Step 28 - Open Enquire page');
-        page.open("http://localhost:8080/Supercar-Trader/enquire.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/enquire.do", function(status){
             
         });
     },
@@ -280,7 +280,7 @@ steps = [
     //Step 31 - Open Enquire page
     function(){
         console.log('Step 31 - Open Enquire page');
-        page.open("http://localhost:8080/Supercar-Trader/enquire.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/enquire.do", function(status){
             
         });
     },
@@ -300,7 +300,7 @@ steps = [
     //Step 34 - Open About page
     function(){
         console.log('Step 34 - Open About page');
-        page.open("http://localhost:8080/Supercar-Trader/about.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/about.do", function(status){
             
         });
     },

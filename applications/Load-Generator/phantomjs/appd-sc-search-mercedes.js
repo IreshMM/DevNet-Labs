@@ -22,7 +22,7 @@ steps = [
 	//Step 1 - Open search page
     function(){
         console.log('Step 1 - Open search page');
-        page.open("http://localhost:8080/Supercar-Trader/search.do", function(status){
+        page.open("http://app:8080/Supercar-Trader/search.do", function(status){
 			
 		});
     },
